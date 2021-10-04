@@ -1,0 +1,1 @@
+Metoddaki 3. ve 4. Parametrelerle inputtan gelen 2. Parametreyi topluyoruz. Eğer sonuç ArrayListte varsa true dönüyor. Yoksa False dönüyor.
